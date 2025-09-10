@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-code-after-never",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Detects unreachable code after functions that return `never` using TypeScript type information.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
