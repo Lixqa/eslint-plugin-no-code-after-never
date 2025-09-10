@@ -17,7 +17,18 @@
     "type": "git",
     "url": "https://github.com/Lixqa/eslint-plugin-no-code-after-never.git"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslint-plugin-no-code-after-never",
+    "typescript",
+    "typescript-eslint",
+    "typescript-eslint-plugin",
+    "no-code-after-never",
+    "typescript-never",
+    "dead-code",
+    "dead-code-never"
+  ],
   "author": "Lixqa <lixqadev@gmail.com>",
   "license": "ISC",
   "devDependencies": {
